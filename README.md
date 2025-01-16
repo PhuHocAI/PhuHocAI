@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Web Developer + AI Engineer
+Aim to Full Stack Web Developer + AI Engineer + Researcher of AI in MLLMs
 
 
 ## 🌐 Socials:
